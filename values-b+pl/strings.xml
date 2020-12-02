@@ -431,8 +431,8 @@
     <string name="help_faq">Często Zadawane Pytania</string>
     <string name="pla_menu_item_visibility">Widoczność przycisków menu</string>
     <string name="pla_menu_type">Styl wizualny menu</string>
-    <string name="pla_menu_type_list">lista</string>
-    <string name="pla_menu_type_grid">krata</string>
+    <string name="pla_menu_type_list">Widok: listy</string>
+    <string name="pla_menu_type_grid">Widok: kart</string>
     <string name="ch_manage_use_internal">Użyj wewnętrznego odtwarzacza</string>
     <string name="cat_manage_start_this_cat_on">Zacznij od tej kategorii</string>
 
