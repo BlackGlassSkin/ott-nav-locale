@@ -393,7 +393,7 @@
     <string name="pla_timeshift_from_current">Zacznij od bieżącej chwili</string>
     <string name="cfg_play_action_timeshift_start">otwórz zarchiwizowany program telewizyjny od początku</string>
     <string name="cfg_play_action_timeshift_now">otwórz zarchiwizowany program telewizyjny od aktualnego czasu</string>
-    <string name="cfg_cat_recent">Kategoria ostatnich kanałów</string>
+    <string name="cfg_cat_recent">Kategoria ostatno oglądanych kanałów</string>
     <string name="enable">Włącz</string>
     <string name="save_between_launch">zapisać między uruchomieniami</string>
     <string name="cfg_no_teleguide">Generuj wirtualny rekord epg, gdy nie jest dostępny żaden program telewizyjny</string>
