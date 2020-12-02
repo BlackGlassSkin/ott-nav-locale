@@ -179,7 +179,7 @@
     <string name="settings_palette_style">Schemat kolorów</string>
 
     <string name="settings_ui_screen_margins">Marginesy ekranu</string>
-    <string name="settings_ui_language">Język (jeśli nie jest ustawiony, użyj domyślny)</string>
+    <string name="settings_ui_language">Język (Ustaw język lub pozostaw systemowy)</string>
 
     <string name="settings_codec">Ustawienia kodeków</string>
     <string name="settings_codec_hard">Zawsze używaj kodeków sprzętowych</string>
@@ -222,7 +222,7 @@
     <string name="cfg_play_action_last">przełącz na ostatnio odtwarzany kanał</string>
     <string name="cfg_play_action_title">Ustaw zdalny kontroler</string>
     <string name="cfg_play_action_btn_archive_as_live">Użyj tej samej konfiguracji podczas oglądania archiwów (wyłącza wyszukiwanie za pomocą lewego i prawego przycisku)</string>
-    <string name="cfg_trans_wind">Użyj przejrzystego interfejsu</string>
+    <string name="cfg_trans_wind">Użyj przeźroczystego interfejsu</string>
 
     <string name="do_not_show">nie pokazuj</string>
     <string name="android_not_genuine">Subskrybcja może nie działać na Twoim urządzeniu.</string>
