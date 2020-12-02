@@ -76,7 +76,7 @@
     <string name="player_menu_pip_title">Obraz w obrazie</string>
     <string name="player_menu_pip_on_details">Wyjdź z trybu obrazu w obrazie</string>
     <string name="player_menu_pip_swap_details">Zamień główny kanał i jeden PiP</string>
-    <string name="player_menu_last_channel">Ostatni kanał</string>
+    <string name="player_menu_last_channel">Ostatnio oglądany</string>
 
     <string name="settings_player_pip_codec">Wybór kodeków Picture-in-Picture</string>
     <string name="settings_player_pip_position_tl">lewy górny</string>
